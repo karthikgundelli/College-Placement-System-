@@ -80,7 +80,7 @@ This **College Placement Preparation System** is designed to help students enhan
    ```
 2. Install dependencies  
    ```sh
-   npm install
+   npx create-react-app 
    ```
 3. Start the development server  
    ```sh
